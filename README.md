@@ -64,7 +64,7 @@ por ejemplo el puerto 8086
 
 http://localhost:8086/login.php
 
-Railway (Plataforma en la nube)
+(Plataforma en la nube, Railway )
 
 Al generar el dominio en la plataforma
 
